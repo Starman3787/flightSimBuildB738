@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-179.0701595429246
+70.72209564245712
  22
-84.30756579722788
+51.34369811686707
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-260.7083565022456
+106.1284200934184
  41
 1.460750853242321
  42
@@ -5419,6 +5419,214 @@ AcDbCircle
  40
 4
   0
+LINE
+  5
+BF
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+63.5
+ 20
+61.5
+ 11
+69.5
+ 21
+61.5
+  0
+LINE
+  5
+C0
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+63.5
+ 20
+59
+ 11
+69.5
+ 21
+59
+  0
+ARC
+  5
+C1
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+69.5
+ 20
+60.25
+ 40
+1.25
+100
+AcDbArc
+ 50
+270
+ 51
+90
+  0
+ARC
+  5
+C2
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+63.49999234520039
+ 20
+60.25000000002344
+ 40
+1.25
+100
+AcDbArc
+ 50
+89.99964912983147
+ 51
+269.9996491298315
+  0
+LINE
+  5
+C3
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+63
+ 20
+49.5
+ 11
+63
+ 21
+44.5
+  0
+LINE
+  5
+C4
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+70
+ 20
+49.5
+ 11
+70
+ 21
+44.5
+  0
+ARC
+  5
+C5
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+66.5
+ 20
+49.5
+ 40
+3.5
+100
+AcDbArc
+ 50
+0
+ 51
+180
+  0
+ARC
+  5
+C6
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+66.5
+ 20
+44.5
+ 40
+3.5
+100
+AcDbArc
+ 50
+180
+ 51
+0
+  0
 ENDSEC
   0
 SECTION
@@ -5451,7 +5659,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-BF
+C7
 100
 AcDbPlotSettings
   6
