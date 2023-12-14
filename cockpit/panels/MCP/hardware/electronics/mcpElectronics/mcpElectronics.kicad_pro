@@ -324,6 +324,30 @@
     [
       "fa992ac1-ed16-45e0-80d3-f97d5303d525",
       "course"
+    ],
+    [
+      "3d26665b-c177-4516-9cc1-e7c6c275dd7f",
+      "iasmach"
+    ],
+    [
+      "5f3b6471-1817-4a3a-8c02-4f94b083cb7c",
+      "heading"
+    ],
+    [
+      "3b2de460-2507-42ca-a89a-14cd6ff8cb04",
+      "altitude"
+    ],
+    [
+      "7f3bfa73-4a66-438e-b3bd-44e91f7ada61",
+      "indication lights"
+    ],
+    [
+      "9cf9fedf-d8bd-4bbf-9c4c-1d54661afbee",
+      "vert speed"
+    ],
+    [
+      "341d07dd-bd42-4f9d-8752-6ab24ca7ea12",
+      "ap"
     ]
   ],
   "text_variables": {}
